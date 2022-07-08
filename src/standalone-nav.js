@@ -46,7 +46,6 @@ import portfolioMessages from './messages/portfolio.messages';
 import productsMessages from './messages/products.messages';
 import platformsMessages from './messages/platforms.messages';
 import ordersMessages from './messages/orders.messages';
-import approvalMessages from './messages/approval.messages';
 
 const App = (props) => {
   const [auth, setAuth] = useState(undefined);
@@ -70,7 +69,7 @@ const App = (props) => {
     let menu = [];
     [
       menuItem(formatMessage(productsMessages.title), {
-        url: `${baseUrl}${CATALOG_UI_PREFIX}{Paths.products}`
+        url: `${baseUrl}${CATALOG_UI_PREFIX}${Paths.products}`
       }),
       menuItem(formatMessage(portfolioMessages.portfoliosTitle), {
         url: `${baseUrl}${CATALOG_UI_PREFIX}${Paths.portfolios}`
@@ -318,8 +317,6 @@ const App = (props) => {
         {aboutModalVisible && aboutModal()}
         <UserContext.Provider
           value={{
-            permissions: [{ permission: 'catalog:portfolios:create' }],
-            userIdentity: { identity: { user: { is_org_admin: true } } },
             userRoles: user?.roles,
             standalone: true
           }}

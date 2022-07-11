@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd _clones/pinakes-ui
+
 # Extract UI Strings
 npm run extract:messages
 

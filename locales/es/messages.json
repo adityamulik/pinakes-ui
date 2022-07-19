@@ -2,6 +2,24 @@
   "SrzSY5": {
     "defaultMessage": ""
   },
+  "actionModal.actionName": {
+    "defaultMessage": ""
+  },
+  "actionModal.failedAction": {
+    "defaultMessage": ""
+  },
+  "actionModal.failedTitle": {
+    "defaultMessage": ""
+  },
+  "actionModal.fullfiledAction": {
+    "defaultMessage": ""
+  },
+  "actionModal.requestDescription": {
+    "defaultMessage": ""
+  },
+  "actionModal.successTitle": {
+    "defaultMessage": ""
+  },
   "approval.notifications.link": {
     "defaultMessage": ""
   },
@@ -15,28 +33,28 @@
     "defaultMessage": ""
   },
   "common.actions.copy": {
-    "defaultMessage": "Copiar"
+    "defaultMessage": ""
   },
   "common.actions.delete": {
-    "defaultMessage": "ELIMINAR"
+    "defaultMessage": ""
   },
   "common.actions.deleting": {
     "defaultMessage": ""
   },
   "common.actions.edit": {
-    "defaultMessage": "Editar"
+    "defaultMessage": ""
   },
   "common.actions.save": {
-    "defaultMessage": "Guardar"
+    "defaultMessage": ""
   },
   "common.actions.setApproval": {
-    "defaultMessage": "Aprobación"
+    "defaultMessage": ""
   },
   "common.actions.share": {
     "defaultMessage": ""
   },
   "common.filtering.clear-filters": {
-    "defaultMessage": "Borrar todos los filtros"
+    "defaultMessage": ""
   },
   "common.filtering.filterByProduct": {
     "defaultMessage": ""
@@ -45,10 +63,10 @@
     "defaultMessage": ""
   },
   "common.filtering.noItems": {
-    "defaultMessage": "No se encontraron elementos."
+    "defaultMessage": ""
   },
   "common.filtering.noResults": {
-    "defaultMessage": "No se encontraron resultados"
+    "defaultMessage": ""
   },
   "common.filtering.noResultsDescription": {
     "defaultMessage": " "
@@ -57,88 +75,88 @@
     "defaultMessage": ""
   },
   "common.labels.available": {
-    "defaultMessage": "Hosts disponibles"
+    "defaultMessage": ""
   },
   "common.labels.cancel": {
-    "defaultMessage": "Cancelar"
+    "defaultMessage": ""
   },
   "common.labels.confirm": {
-    "defaultMessage": "Confirmar"
+    "defaultMessage": ""
   },
   "common.labels.create": {
-    "defaultMessage": "Crear"
+    "defaultMessage": ""
   },
   "common.labels.description": {
-    "defaultMessage": "Descripción"
+    "defaultMessage": ""
   },
   "common.labels.disabled": {
-    "defaultMessage": "Deshabilitados"
+    "defaultMessage": ""
   },
   "common.labels.enabled": {
-    "defaultMessage": "Habilitado"
+    "defaultMessage": ""
   },
   "common.labels.id": {
-    "defaultMessage": "Estado"
+    "defaultMessage": ""
   },
   "common.labels.loading": {
-    "defaultMessage": "Cargando"
+    "defaultMessage": ""
   },
   "common.labels.name": {
-    "defaultMessage": "Nombre"
+    "defaultMessage": ""
   },
   "common.labels.not-available": {
-    "defaultMessage": "No disponible"
+    "defaultMessage": ""
   },
   "common.labels.owner": {
     "defaultMessage": ""
   },
   "common.labels.platform": {
-    "defaultMessage": "Plataforma"
+    "defaultMessage": ""
   },
   "common.labels.portfolio": {
-    "defaultMessage": "Portfolio"
+    "defaultMessage": ""
   },
   "common.labels.product": {
     "defaultMessage": ""
   },
   "common.labels.save": {
-    "defaultMessage": "Guardar"
+    "defaultMessage": ""
   },
   "common.labels.shared": {
     "defaultMessage": ""
   },
   "common.labels.sort-by": {
-    "defaultMessage": "ORDENAR POR"
+    "defaultMessage": ""
   },
   "common.labels.to-portfolio": {
     "defaultMessage": ""
   },
   "common.labels.updated": {
-    "defaultMessage": "Actualizado "
+    "defaultMessage": ""
   },
   "common.states.approval-pending": {
     "defaultMessage": ""
   },
   "common.states.approved": {
-    "defaultMessage": "Aprobado"
+    "defaultMessage": ""
   },
   "common.states.canceled": {
-    "defaultMessage": "Cancelado"
+    "defaultMessage": ""
   },
   "common.states.completed": {
-    "defaultMessage": "Completado"
+    "defaultMessage": ""
   },
   "common.states.created": {
-    "defaultMessage": "Creado"
+    "defaultMessage": ""
   },
   "common.states.denied": {
-    "defaultMessage": "Denegado"
+    "defaultMessage": ""
   },
   "common.states.error": {
-    "defaultMessage": "Error"
+    "defaultMessage": ""
   },
   "common.states.failed": {
-    "defaultMessage": "Fallido"
+    "defaultMessage": ""
   },
   "common.states.notified": {
     "defaultMessage": ""
@@ -147,16 +165,16 @@
     "defaultMessage": ""
   },
   "common.states.pending": {
-    "defaultMessage": "Pendiente"
+    "defaultMessage": ""
   },
   "common.states.skipped": {
-    "defaultMessage": "Omitido"
+    "defaultMessage": ""
   },
   "common.states.started": {
-    "defaultMessage": "Iniciado"
+    "defaultMessage": ""
   },
   "common.states.title": {
-    "defaultMessage": "Estado"
+    "defaultMessage": ""
   },
   "common.states.undecided": {
     "defaultMessage": ""
@@ -164,23 +182,71 @@
   "common.states.unknown": {
     "defaultMessage": ""
   },
+  "commonApiError.401Description": {
+    "defaultMessage": ""
+  },
+  "commonApiError.401Title": {
+    "defaultMessage": ""
+  },
+  "commonApiError.403Description": {
+    "defaultMessage": ""
+  },
+  "commonApiError.403Title": {
+    "defaultMessage": ""
+  },
+  "commonApiError.goToLanding": {
+    "defaultMessage": ""
+  },
+  "commonApiError.returnBack": {
+    "defaultMessage": ""
+  },
+  "commonMessages.actions": {
+    "defaultMessage": ""
+  },
+  "commonMessages.approvalTitle": {
+    "defaultMessage": ""
+  },
+  "commonMessages.cancel": {
+    "defaultMessage": ""
+  },
+  "commonMessages.delete": {
+    "defaultMessage": ""
+  },
+  "commonMessages.deleting": {
+    "defaultMessage": ""
+  },
   "commonMessages.noRecords": {
     "defaultMessage": ""
   },
+  "commonMessages.order": {
+    "defaultMessage": ""
+  },
   "commonMessages.orderProcessesTitle": {
+    "defaultMessage": ""
+  },
+  "commonMessages.platform": {
+    "defaultMessage": ""
+  },
+  "commonMessages.portfolio": {
+    "defaultMessage": ""
+  },
+  "commonMessages.product": {
+    "defaultMessage": ""
+  },
+  "commonMessages.save": {
     "defaultMessage": ""
   },
   "commonMessages.unknown": {
     "defaultMessage": ""
   },
   "errors.forbidden.title": {
-    "defaultMessage": "Prohibido"
+    "defaultMessage": ""
   },
   "errors.not-found.description": {
     "defaultMessage": ""
   },
   "errors.not-found.title": {
-    "defaultMessage": "No encontrado"
+    "defaultMessage": ""
   },
   "errors.unauthorized.description": {
     "defaultMessage": " <br></br>"
@@ -194,6 +260,63 @@
   "foo": {
     "defaultMessage": ""
   },
+  "formMessages.approvalProcessName": {
+    "defaultMessage": ""
+  },
+  "formMessages.create": {
+    "defaultMessage": ""
+  },
+  "formMessages.createApprovalTitle": {
+    "defaultMessage": ""
+  },
+  "formMessages.createNotificationSettingTitle": {
+    "defaultMessage": ""
+  },
+  "formMessages.createTemplateTitle": {
+    "defaultMessage": ""
+  },
+  "formMessages.description": {
+    "defaultMessage": ""
+  },
+  "formMessages.enterApprovalName": {
+    "defaultMessage": ""
+  },
+  "formMessages.enterInfo": {
+    "defaultMessage": ""
+  },
+  "formMessages.enterNotificationSettingName": {
+    "defaultMessage": ""
+  },
+  "formMessages.enterTemplateTitle": {
+    "defaultMessage": ""
+  },
+  "formMessages.existingGroups": {
+    "defaultMessage": ""
+  },
+  "formMessages.generalInformation": {
+    "defaultMessage": ""
+  },
+  "formMessages.groups": {
+    "defaultMessage": ""
+  },
+  "formMessages.nameTaken": {
+    "defaultMessage": ""
+  },
+  "formMessages.notificationSettingName": {
+    "defaultMessage": ""
+  },
+  "formMessages.selectPlaceholder": {
+    "defaultMessage": ""
+  },
+  "formMessages.setGroups": {
+    "defaultMessage": ""
+  },
+  "formMessages.summary": {
+    "defaultMessage": ""
+  },
+  "formMessages.templateTitle": {
+    "defaultMessage": ""
+  },
   "forms.after.currentAfterProvision": {
     "defaultMessage": ""
   },
@@ -201,7 +324,7 @@
     "defaultMessage": ""
   },
   "forms.after.setReturnProvision": {
-    "defaultMessage": "Volver"
+    "defaultMessage": ""
   },
   "forms.before.beforeProvision": {
     "defaultMessage": ""
@@ -210,7 +333,7 @@
     "defaultMessage": ""
   },
   "forms.groups-with-access": {
-    "defaultMessage": "Grupos con acceso"
+    "defaultMessage": ""
   },
   "forms.nameTaken": {
     "defaultMessage": ""
@@ -222,10 +345,10 @@
     "defaultMessage": ""
   },
   "forms.select.options.none": {
-    "defaultMessage": "Ninguno"
+    "defaultMessage": ""
   },
   "forms.share.invite-group": {
-    "defaultMessage": "¿Borrar el grupo?"
+    "defaultMessage": ""
   },
   "icons.actions.change": {
     "defaultMessage": ""
@@ -234,7 +357,79 @@
     "defaultMessage": ""
   },
   "name": {
-    "defaultMessage": "Nombre"
+    "defaultMessage": ""
+  },
+  "notFound.pageNotFound": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.addNotificationSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.addNotificationSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.createNotification": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.deleteNotificationTitle": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.edit": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.editInformation": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.editNotificationTitle": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.noNotifications": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.notification": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.notifications": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.removeNotificationDescription": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.removeNotificationDescriptionWithDeps": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.removeNotificationSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.removeNotificationSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.removeNotificationTitle": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.removeNotificationsSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.removeNotificationsSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.repositionNotificationSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.repositionNotificationSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.settings": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.type": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.updateNotificationSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "notificationMessages.updateNotificationSuccessTitle": {
+    "defaultMessage": ""
   },
   "order-proces.empty.no-order-processes": {
     "defaultMessage": ""
@@ -270,7 +465,7 @@
     "defaultMessage": ""
   },
   "order-process.filter.placeholder": {
-    "defaultMessage": "Filtrar por nombre"
+    "defaultMessage": ""
   },
   "order-process.name": {
     "defaultMessage": ""
@@ -288,7 +483,7 @@
     "defaultMessage": ""
   },
   "order-process.removeProcessDescription": {
-    "defaultMessage": " se quitará de ."
+    "defaultMessage": ""
   },
   "order-process.removeProcessSuccessDescription": {
     "defaultMessage": ""
@@ -311,6 +506,9 @@
   "order-process.tags.set": {
     "defaultMessage": ""
   },
+  "order-process.toolbar.no-order-process": {
+    "defaultMessage": ""
+  },
   "order-process.toolbar.order-process": {
     "defaultMessage": ""
   },
@@ -327,16 +525,16 @@
     "defaultMessage": ""
   },
   "orders.actions.reorder": {
-    "defaultMessage": "Reordenar"
+    "defaultMessage": ""
   },
   "orders.approval.activity": {
-    "defaultMessage": "Actividad"
+    "defaultMessage": ""
   },
   "orders.approval.creating": {
     "defaultMessage": ""
   },
   "orders.approval.details.completed": {
-    "defaultMessage": "Completado"
+    "defaultMessage": ""
   },
   "orders.approval.details.created": {
     "defaultMessage": ""
@@ -363,19 +561,19 @@
     "defaultMessage": ""
   },
   "orders.artifacts": {
-    "defaultMessage": "Artefactos"
+    "defaultMessage": ""
   },
   "orders.cancel.description": {
-    "defaultMessage": "¿Está seguro de que desea cancelar esta tarea?"
+    "defaultMessage": ""
   },
   "orders.common.compositeTitle": {
     "defaultMessage": ""
   },
   "orders.common.details": {
-    "defaultMessage": "Detalles del usuario"
+    "defaultMessage": ""
   },
   "orders.common.lastUpdated": {
-    "defaultMessage": "Última actualización"
+    "defaultMessage": ""
   },
   "orders.common.orderedBy": {
     "defaultMessage": ""
@@ -384,13 +582,13 @@
     "defaultMessage": ""
   },
   "orders.list.empty.description": {
-    "defaultMessage": "NO SE CREARON HOSTS"
+    "defaultMessage": ""
   },
   "orders.list.empty.title": {
     "defaultMessage": ""
   },
   "orders.menu.approval": {
-    "defaultMessage": "Aprobación"
+    "defaultMessage": ""
   },
   "orders.menu.lifecycle": {
     "defaultMessage": ""
@@ -402,16 +600,16 @@
     "defaultMessage": ""
   },
   "orders.notification.success": {
-    "defaultMessage": " <link></link> página"
+    "defaultMessage": " <link></link> "
   },
   "orders.order.default_type": {
     "defaultMessage": ""
   },
   "orders.order.detail.ID": {
-    "defaultMessage": "Pedir"
+    "defaultMessage": ""
   },
   "orders.order.detail.messages": {
-    "defaultMessage": "Mensajes de progreso"
+    "defaultMessage": ""
   },
   "orders.order.detail.parameters": {
     "defaultMessage": ""
@@ -428,6 +626,9 @@
   "orders.provision.no-items": {
     "defaultMessage": ""
   },
+  "orders.title": {
+    "defaultMessage": ""
+  },
   "orders.toolbar.backLink": {
     "defaultMessage": ""
   },
@@ -435,7 +636,7 @@
     "defaultMessage": ""
   },
   "platform.inventories.columns.workflow": {
-    "defaultMessage": "Flujo de trabajo"
+    "defaultMessage": ""
   },
   "platform.inventories.empty.no-inventories": {
     "defaultMessage": ""
@@ -453,19 +654,19 @@
     "defaultMessage": ""
   },
   "platform.templates.no-templates": {
-    "defaultMessage": "Plantillas"
+    "defaultMessage": ""
   },
   "platforms.activity": {
-    "defaultMessage": "Actividad"
+    "defaultMessage": ""
   },
   "platforms.ansible.version": {
-    "defaultMessage": "Versión de Pulp Ansible"
+    "defaultMessage": ""
   },
   "platforms.availabilityMessage": {
-    "defaultMessage": "Zona de disponibilidad"
+    "defaultMessage": ""
   },
   "platforms.availabilityStatus": {
-    "defaultMessage": "Zona de disponibilidad"
+    "defaultMessage": ""
   },
   "platforms.controller.url": {
     "defaultMessage": ""
@@ -474,16 +675,16 @@
     "defaultMessage": ""
   },
   "platforms.details": {
-    "defaultMessage": "Detalles"
+    "defaultMessage": ""
   },
   "platforms.doc.title": {
     "defaultMessage": ""
   },
   "platforms.enabled": {
-    "defaultMessage": "Habilitado"
+    "defaultMessage": ""
   },
   "platforms.lastAvailable": {
-    "defaultMessage": "Hosts disponibles"
+    "defaultMessage": ""
   },
   "platforms.lastChecked": {
     "defaultMessage": ""
@@ -498,7 +699,7 @@
     "defaultMessage": ""
   },
   "platforms.list.connect-source": {
-    "defaultMessage": "Volver a Fuentes"
+    "defaultMessage": ""
   },
   "platforms.list.contact-admin": {
     "defaultMessage": ""
@@ -555,7 +756,7 @@
     "defaultMessage": ""
   },
   "portfolio.detail.back-to-products": {
-    "defaultMessage": "Volver a Proyectos"
+    "defaultMessage": ""
   },
   "portfolio.empty.add.products": {
     "defaultMessage": ""
@@ -564,28 +765,28 @@
     "defaultMessage": ""
   },
   "portfolio.item.copy": {
-    "defaultMessage": "Copiar proyecto"
+    "defaultMessage": ""
   },
   "portfolio.item.detail.actions.order": {
-    "defaultMessage": "Pedir"
+    "defaultMessage": ""
   },
   "portfolio.item.detail.actions.survey": {
-    "defaultMessage": "Editar el cuestionario"
+    "defaultMessage": ""
   },
   "portfolio.item.detail.doclink": {
     "defaultMessage": ""
   },
   "portfolio.item.detail.documentation": {
-    "defaultMessage": "Documentación"
+    "defaultMessage": ""
   },
   "portfolio.item.detail.overview": {
     "defaultMessage": ""
   },
   "portfolio.item.detail.support": {
-    "defaultMessage": "Más información"
+    "defaultMessage": ""
   },
   "portfolio.item.edit.title": {
-    "defaultMessage": "Modificar proyecto"
+    "defaultMessage": ""
   },
   "portfolio.item.icon.upload.notification": {
     "defaultMessage": ""
@@ -600,6 +801,9 @@
     "defaultMessage": ""
   },
   "portfolio.modal.edit.title": {
+    "defaultMessage": ""
+  },
+  "portfolio.notifications.remove.only.portfolio": {
     "defaultMessage": ""
   },
   "portfolio.notifications.remove.portfolio": {
@@ -639,7 +843,7 @@
     "defaultMessage": ""
   },
   "portfolio.share.modal.groups": {
-    "defaultMessage": "Seleccione una etiqueta"
+    "defaultMessage": ""
   },
   "portfolio.share.modal.permissions": {
     "defaultMessage": ""
@@ -660,7 +864,7 @@
     "defaultMessage": ""
   },
   "products.empty.add-source": {
-    "defaultMessage": "AGREGAR FUENTE"
+    "defaultMessage": ""
   },
   "products.empty.configure-source": {
     "defaultMessage": ""
@@ -668,41 +872,194 @@
   "products.toolbar.title": {
     "defaultMessage": ""
   },
+  "requestMessages.requestTitle": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.addCommentLabel": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.approveDescription": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.approveLabel": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.approveRequest": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.approveTitle": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.approved": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.approvedBy": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.canceled": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.canceledBy": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.commentDescription": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.commentFrom": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.commentTitle": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.completed": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.decisionColumn": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.denied": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.deniedBy": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.denyDescription": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.denyLabel": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.denyRequest": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.denyTitle": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.emptyAllRequestsDescription": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.emptyRequestsDescription": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.emptyRequestsTitle": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.error": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.errorBy": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.expandableDataList": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.failed": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.needsReview": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.notified": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.notifiedBy": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.openedColumn": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.orderNumber": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.parameters": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.pending": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.reasonTitle": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.request": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.requestContentDetails": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.requestDescription": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.requestTranscript": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.requesterColumn": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.requests": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.requestsIdColumn": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.skipped": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.skippedBy": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.started": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.startedBy": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.statusColumn": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.toggleDetailsFor": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.undecided": {
+    "defaultMessage": ""
+  },
+  "requestsMessages.updatedColumn": {
+    "defaultMessage": ""
+  },
   "schemas.portfolio-item.description": {
-    "defaultMessage": "Descripción"
+    "defaultMessage": ""
   },
   "schemas.portfolio-item.documentation_url": {
-    "defaultMessage": "Documentación"
+    "defaultMessage": ""
   },
   "schemas.portfolio-item.long_description": {
-    "defaultMessage": "Mostrar descripción"
+    "defaultMessage": ""
   },
   "schemas.portfolio-item.name": {
-    "defaultMessage": "Nombre"
+    "defaultMessage": ""
   },
   "schemas.portfolio-item.support_url": {
     "defaultMessage": ""
   },
   "schemas.portfolio-item.vendor": {
-    "defaultMessage": "Vendor"
+    "defaultMessage": ""
   },
   "schemas.portfolio.description": {
-    "defaultMessage": "Descripción"
+    "defaultMessage": ""
   },
   "schemas.portfolio.name": {
-    "defaultMessage": "Nombre"
+    "defaultMessage": ""
   },
   "share.groups.access": {
-    "defaultMessage": "Grupos con acceso"
+    "defaultMessage": ""
   },
   "share.groups.group.placeholder": {
-    "defaultMessage": "Seleccionar grupos"
+    "defaultMessage": ""
   },
   "share.groups.permissions.placeholder": {
-    "defaultMessage": "Seleccionar permisos"
+    "defaultMessage": ""
   },
   "share.new.description": {
-    "defaultMessage": "¿Borrar el grupo?"
+    "defaultMessage": ""
   },
   "share.notification.success.change-permission.description": {
     "defaultMessage": ""
@@ -711,7 +1068,7 @@
     "defaultMessage": ""
   },
   "share.notification.success.multiple-groups": {
-    "defaultMessage": "GRUPOS RAÍZ"
+    "defaultMessage": ""
   },
   "share.notification.success.share.description": {
     "defaultMessage": ""
@@ -731,16 +1088,206 @@
   "share.notification.success.unshare.title": {
     "defaultMessage": ""
   },
+  "tableEmpty.noRecords": {
+    "defaultMessage": ""
+  },
+  "tableToolbar.ariaLabel": {
+    "defaultMessage": ""
+  },
+  "tableToolbar.clearAllFilters": {
+    "defaultMessage": ""
+  },
+  "tableToolbar.clearAllFiltersDescription": {
+    "defaultMessage": " "
+  },
   "tableToolbar.filterByTitle": {
-    "defaultMessage": "Filtrar por nombre"
+    "defaultMessage": ""
+  },
+  "tableToolbar.name": {
+    "defaultMessage": ""
   },
   "tableToolbar.noResult": {
-    "defaultMessage": "RESULTADOS"
+    "defaultMessage": ""
   },
   "tableToolbar.noResultsFound": {
-    "defaultMessage": "No se encontraron resultados"
+    "defaultMessage": ""
+  },
+  "tableToolbar.updatedLabel": {
+    "defaultMessage": ""
+  },
+  "tabs.allRequests": {
+    "defaultMessage": ""
+  },
+  "tabs.approvalProcess": {
+    "defaultMessage": ""
+  },
+  "tabs.myRequests": {
+    "defaultMessage": ""
+  },
+  "tabs.notificationSettings": {
+    "defaultMessage": ""
+  },
+  "tabs.templates": {
+    "defaultMessage": ""
+  },
+  "templateMessages.addTemplateSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "templateMessages.addTemplateSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "templateMessages.createTemplate": {
+    "defaultMessage": ""
+  },
+  "templateMessages.deleteTemplateTitle": {
+    "defaultMessage": ""
+  },
+  "templateMessages.down": {
+    "defaultMessage": ""
+  },
+  "templateMessages.edit": {
+    "defaultMessage": ""
+  },
+  "templateMessages.editInformation": {
+    "defaultMessage": ""
+  },
+  "templateMessages.editTemplateTitle": {
+    "defaultMessage": ""
+  },
+  "templateMessages.noTemplates": {
+    "defaultMessage": ""
+  },
+  "templateMessages.processMethod": {
+    "defaultMessage": ""
+  },
+  "templateMessages.removeTemplateDescription": {
+    "defaultMessage": ""
+  },
+  "templateMessages.removeTemplateDescriptionWithDeps": {
+    "defaultMessage": ""
+  },
+  "templateMessages.removeTemplateSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "templateMessages.removeTemplateSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "templateMessages.removeTemplateTitle": {
+    "defaultMessage": ""
+  },
+  "templateMessages.removeTemplatesSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "templateMessages.removeTemplatesSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "templateMessages.repositionTemplateSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "templateMessages.repositionTemplateSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "templateMessages.signalMethod": {
+    "defaultMessage": ""
+  },
+  "templateMessages.template": {
+    "defaultMessage": ""
+  },
+  "templateMessages.templates": {
+    "defaultMessage": ""
+  },
+  "templateMessages.up": {
+    "defaultMessage": ""
+  },
+  "templateMessages.updateTemplateSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "templateMessages.updateTemplateSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "worfklowMessages.approvalProcess": {
+    "defaultMessage": ""
+  },
+  "worfklowMessages.approvalProcesses": {
+    "defaultMessage": ""
+  },
+  "worfklowMessages.createApprovalProcess": {
+    "defaultMessage": ""
+  },
+  "worfklowMessages.deleteApprovalTitle": {
+    "defaultMessage": ""
+  },
+  "worfklowMessages.edit": {
+    "defaultMessage": ""
+  },
+  "worfklowMessages.editInformation": {
+    "defaultMessage": ""
+  },
+  "worfklowMessages.noApprovalProcesses": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.addProcessSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.addProcessSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.down": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.editProcessTitle": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.enterSequence": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.removeProcessAriaLabel": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.removeProcessDescription": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.removeProcessDescriptionWithDeps": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.removeProcessSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.removeProcessSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.removeProcessTitle": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.removeProcessesSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.removeProcessesSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.repositionProcessSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.repositionProcessSuccessTitle": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.sequence": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.template": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.up": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.updateProcessSuccessDescription": {
+    "defaultMessage": ""
+  },
+  "workflowMessages.updateProcessSuccessTitle": {
+    "defaultMessage": ""
   },
   "workflows.modal.title": {
     "defaultMessage": ""
   }
 }
+

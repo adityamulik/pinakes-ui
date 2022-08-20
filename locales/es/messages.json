@@ -456,7 +456,7 @@
     "defaultMessage": "El proceso de pedido {nombre} fue actualizado"
   },
   "order-process.deleteProcessAriaMenu": {
-    "defaultMessage": "Borrar procesos de pedidos"
+    "defaultMessage": "Borrar procesos de pedido"
   },
   "order-process.empty.no-results": {
     "defaultMessage": "Ningún proceso de pedido coincide con sus criterios de filtrado."
@@ -576,7 +576,7 @@
     "defaultMessage": "Última actualización"
   },
   "orders.common.orderedBy": {
-    "defaultMessage": "Pedido por el {propietario}"
+    "defaultMessage": "Ordenado por el {propietario}"
   },
   "orders.detail.title": {
     "defaultMessage": "ID del pedido {id}"
@@ -861,7 +861,7 @@
     "defaultMessage": "Filtrar por cartera"
   },
   "portfolios.heading.title": {
-    "defaultMessage": "Carteras"
+    "defaultMessage": "Portfolios"
   },
   "products.empty.add-source": {
     "defaultMessage": "AGREGAR FUENTE"
@@ -939,7 +939,7 @@
     "defaultMessage": "Las solicitudes aparecerán aquí cuando se haya iniciado un proceso de aprobación."
   },
   "requestsMessages.emptyRequestsDescription": {
-    "defaultMessage": "Aquí aparecerán las solicitudes que necesiten su atención."
+    "defaultMessage": "Las solicitudes que necesitan su atención aparecerán aquí."
   },
   "requestsMessages.emptyRequestsTitle": {
     "defaultMessage": "Todavía no hay solicitudes"
@@ -1197,7 +1197,7 @@
     "defaultMessage": "Plantillas"
   },
   "templateMessages.up": {
-    "defaultMessage": "arriba"
+    "defaultMessage": "up"
   },
   "templateMessages.updateTemplateSuccessDescription": {
     "defaultMessage": "La plantilla se ha actualizado con éxito."
@@ -1278,7 +1278,7 @@
     "defaultMessage": "Plantilla"
   },
   "workflowMessages.up": {
-    "defaultMessage": "arriba"
+    "defaultMessage": "up"
   },
   "workflowMessages.updateProcessSuccessDescription": {
     "defaultMessage": "El proceso de aprobación se actualizó con éxito."
